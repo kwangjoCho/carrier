@@ -1,5 +1,5 @@
 title = "Vessel Doctor Cho"
-baseURL = "https://kwangjocho.github.io/history"
+baseURL = "https://kwangjocho.github.io/carrier"
 languageCod = "en-us"
 theme = "hugo-split-theme"
 publishDir = "docs"
