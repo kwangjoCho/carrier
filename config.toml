@@ -1,0 +1,73 @@
+title = "Vessel Doctor Cho"
+baseURL = "https://kwangjocho.github.io/history"
+languageCod = "en-us"
+theme = "hugo-split-theme"
+publishDir = "docs"
+[params]
+  description = "시간 떼우지 말자."
+  # Metadata for search engines and social sharing
+  author = "Jenny Jones"
+  shareImage = "images/social.jpg"
+  twitterHandle = "onepagelove"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Carrier"
+
+      [[params.links.list1.link]]
+        text = "Education"
+        url = "education_background/"
+      [[params.links.list1.link]]
+        text = "Clinical"
+        url = "clinical_carrier/"
+
+      [[params.links.list1.link]]
+        text = "Academic"
+        url = "academic_carrier/"
+      [[params.links.list1.link]]
+        text = "Curriculm Vitae"
+        url = "curriculum_vite"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "Department"
+        url = "department_history"
+
+      [[params.links.list2.link]]
+        text = "Publish"
+        url = "publish_history"
+
+      [[params.links.list2.link]]
+        text = "Family"
+        url = "family_history"
+
+      [[params.links.list2.link]]
+        text = "Spiritual"
+        url = "spiritual_life"
+
