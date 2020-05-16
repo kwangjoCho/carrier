@@ -1,5 +1,5 @@
 ---
-title: "Curriculum vite"
+title: "CV"
 date: 2020-05-02T22:06:37+09:00
 draft: false
 ---
@@ -80,7 +80,7 @@ draft: false
  - 2012        Director of committee in the Korean Society for Thoracic and Cardiovascular Surgery
  - 2018 - 2019 Director of Editorial Board of the Korean Thoracic & Cardiovascular Surgery Society
 
-[top](#top) 
+[top](#curriculum-vitae) 
 
 
 [home](../)
