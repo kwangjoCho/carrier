@@ -22,4 +22,4 @@ draft: false
  - 2010년 1월 4일부터 2013년 6월 18일  공자아카데미 교직원 중국어 강좌 에서 중국어 배움.
  - 2015년 10월 15 -16일 minimal invasive mitral valve surgery (인도네시아 발리 Bitec)
 
-[home](#"/")
+[home](../)

@@ -66,7 +66,7 @@ draft: false
   
  - 30. KJ Cho, JS Woo, PJ Choi, JH Bang. Surgical Experience of the Remnant Thoracoabdominal Aortic Replacement after Aortic Surgery Korean J Thorac Cardiovasc Surg 2008;41:49 -54.본문
   
--------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------
   
  - 31. KJ Cho, JY Park. Visceral Debranching Thoracic Endovascular Aneurysm Repair for Chronic Desscting Thoracoabdominal Aortic Aneurysm. Korean J Thorac Cardiovasc Surg. 2014;47:548-551. 본문
   
@@ -74,3 +74,4 @@ draft: false
   
  - 33. KJ Cho, SS Yoon. Root Reimplantation with Aortic Arch Replacement and Frozen Elephant Trunk in Acute Aortic Dissection. Journal of Cardiology & Cardiovascular Therapy 2018;11(3):1-4 (JOCCT.MS.ID.555812
   
+[home](../)

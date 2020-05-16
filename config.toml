@@ -34,7 +34,7 @@ publishDir = "docs"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Carrier"
+      heading = "Personal"
 
       [[params.links.list1.link]]
         text = "Education"
