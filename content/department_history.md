@@ -234,7 +234,7 @@ draft: false
   
  - 2014년 10월 28일 Anthony 가 화요 의국 모임에 나오기 시작함 (영어로 presentation & discussion)
   
- {{< figure src="https://live.staticflickr.com/65535/49897225503_23b0e5bfe8_c.jpg" height="500px" title="다음 세대로 교체된 의국 모습이 왠지 활기를 되찾은 것 같다. 풍파를 격고 다시 꽃을 피울 내일을 위해... " >}}
+ {{< figure src="https://live.staticflickr.com/65535/49897225503_425ca56faa.jpg" height="500px" title="다음 세대로 교체된 의국 모습이 왠지 활기를 되찾은 것 같다. 풍파를 격고 다시 꽃을 피울 내일을 위해... " >}}
 
 [above](#2010년대)
  - 2015년 2월 25일 최원석 임상강사 사임 (1년근무)
@@ -264,7 +264,7 @@ draft: false
   
  - 2017년 2월 28일 윤성실 선생 전공의 수료 (2013.3 - 2016.12)
 
- {{< figure src="https://live.staticflickr.com/65535/49898053782_2d758a0d1e_c.jpg" height="500px" title="의국은 계속 존재한다. 새로 조주현선생이 들어오고 윤선실선생이 떠나며 계속 각자의 몫을 감당하고 있다." >}}
+ {{< figure src="https://live.staticflickr.com/65535/49898053782_10d4b4afe8.jpg" height="500px" title="의국은 계속 존재한다. 새로 조주현선생이 들어오고 윤선실선생이 떠나며 계속 각자의 몫을 감당하고 있다." >}}
 
 [above](#2010년대)
  - 2018년 2월 1일 김시호 임상강사 사임 (2년 근무)
