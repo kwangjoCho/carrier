@@ -72,6 +72,8 @@ draft: false
   
  - 32. KJ Cho, JH Jeong, JY Park, SS Yun, JS Woo. Long-term Changes in the Distal Aorta after Aortic Arch Replacement in Acute DeBakey Type I Aortic Dissection. Korean J Thorac Cardiovasc Surg. 2016;49:264-272 본문
   
- - 33. KJ Cho, SS Yoon. Root Reimplantation with Aortic Arch Replacement and Frozen Elephant Trunk in Acute Aortic Dissection. Journal of Cardiology & Cardiovascular Therapy 2018;11(3):1-4 (JOCCT.MS.ID.555812
-  
+ - 33. KJ Cho, SS Yoon. Root Reimplantation with Aortic Arch Replacement and Frozen Elephant Trunk in Acute Aortic Dissection. Journal of Cardiology & Cardiovascular Therapy 2018;11(3):1-4 (JOCCT.MS.ID.555812)
+
+ - 34. JH Cho, JH Bang, SS Jeong, JH Yi, SS Yoon, KJ Cho. Clinical Outcomes of Atypical Inflammatory Variants of Abdominal Aortic Aneurysm. Korean J Thorac Cardiovasc Surg. 2020;53(6):353-360.
+ 
 [home](../)
