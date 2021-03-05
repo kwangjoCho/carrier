@@ -406,4 +406,8 @@ draft: false
    - 143, Aortic valve replacement
  - 2019년 10월 26일 제 51차 대한흉부심장혈관외과학회 추계학술대회 (좌장)
    - 대동맥, 말초혈관 세션
+--------------------------------------------------------------------
 [top](#학회에-구연-발표한-기억들)
+### 2020년
+ - 2020년 11월 17일 Medtronic round table conference (강의)
+   - 144. Intraoperative Antegrade Stent-graft replacement of descending aorta
