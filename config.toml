@@ -2,7 +2,7 @@ title = "Vessel Doctor Cho"
 baseURL = "https://kwangjocho.github.io/carrier"
 languageCod = "en-us"
 theme = "hugo-split-theme"
-publishDir = "docs"
+publishDir = "../docs-carrier"
 [params]
   description = "시간 떼우지 말자."
   # Metadata for search engines and social sharing
@@ -38,17 +38,17 @@ publishDir = "docs"
 
       [[params.links.list1.link]]
         text = "Education"
-        url = "education_background/"
+        url = "./education_background/"
       [[params.links.list1.link]]
         text = "Clinical"
-        url = "clinical_carrier/"
+        url = "./clinical_carrier/"
 
       [[params.links.list1.link]]
         text = "Academic"
-        url = "academic_carrier/"
+        url = "./academic_carrier/"
       [[params.links.list1.link]]
         text = "Curriculm Vitae"
-        url = "curriculum_vite"
+        url = "./curriculum_vite/"
 
   # Links List #2
   [[params.links]]
@@ -57,17 +57,17 @@ publishDir = "docs"
 
       [[params.links.list2.link]]
         text = "Department"
-        url = "department_history"
+        url = "./department_history/"
 
       [[params.links.list2.link]]
         text = "Publish"
-        url = "publish_history"
+        url = "./publish_history/"
 
       [[params.links.list2.link]]
         text = "Family"
-        url = "family_history"
+        url = "./family_history/"
 
       [[params.links.list2.link]]
         text = "Spiritual"
-        url = "spiritual_life"
+        url = "./spiritual_life/"
 
