@@ -413,13 +413,13 @@ draft: false
 [top](#학회에-구연-발표한-기억들)
 ### 2020년
  - 2020년 11월 17일 Medtronic round table conference (강의)
-   - 144. Intraoperative Antegrade Stent-graft replacement of descending aorta
+   - 144, Intraoperative Antegrade Stent-graft replacement of descending aorta
 
 --------------------------------------------------------------------
 [top](#학회에-구연-발표한-기억들)
 ### 2021년
  - 2021년 11월 6일 제 51차 대한흉부심장혈관외과학회 추계학술대회 (좌장)
    - Aneurysm 세션
-   - 145. Thoracoabdominal aorta replacement: Review of single-surgeon experience with 32 cases (윤성실교수 발표)
+   - 145, Thoracoabdominal aorta replacement: Review of single-surgeon experience with 32 cases (윤성실교수 발표)
    
      
