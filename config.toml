@@ -49,6 +49,9 @@ publishDir = "./docs"
       [[params.links.list1.link]]
         text = "Curriculm Vitae"
         url = "./curriculum_vite/"
+      [[params.links.list1.link]]
+        text = "Annual News"
+        url = "./news/"
 
   # Links List #2
   [[params.links]]
