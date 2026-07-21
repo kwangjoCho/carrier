@@ -1,8 +1,12 @@
 title = "Vessel Doctor Cho"
 baseURL = "https://kwangjocho.github.io/carrier"
-languageCod = "en-us"
+# languageCod = "en-us"
 theme = "hugo-split-theme"
 publishDir = "./docs"
+
+[language]
+  locale = "ko-kr"
+
 [params]
   description = "시간 떼우지 말자."
   # Metadata for search engines and social sharing
